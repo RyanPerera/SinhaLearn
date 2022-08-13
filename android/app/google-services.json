@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80483306807",
+    "firebase_url": "https://sinhalearn-314a9.firebaseio.com",
+    "project_id": "sinhalearn-314a9",
+    "storage_bucket": "sinhalearn-314a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80483306807:android:c40d19f8c654674e1adeb2",
+        "android_client_info": {
+          "package_name": "com.sinhalearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80483306807-t90horm89nss8vd1cqfmc7euljph8icj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbfMNYi2by8HZwV6Ret7PUAZJn8kr4Mt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80483306807-t90horm89nss8vd1cqfmc7euljph8icj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
